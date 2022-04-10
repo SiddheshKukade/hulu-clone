@@ -12,7 +12,7 @@ const Header = () => {
                 <HeaderItem title="SEARCH" Icon={SearchIcon} />
                 <HeaderItem title="ACCOUNT" Icon={UserIcon} />
             </div>
-            <Image className='object-contain  -mt-13' src="https://links.papareact.com/ua6" height={100} width={200} /></header>
+            <Image alt='hulu logo' className='object-contain  -mt-13' src="https://links.papareact.com/ua6" height={100} width={200} /></header>
     )
 }
 

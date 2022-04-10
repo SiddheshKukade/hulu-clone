@@ -7,7 +7,6 @@ import Header from './../components/Header/Header';
 import Results from './../components/Results/Results';
 
 export default function Home({ results }) {
-  console.log(results)
   return (
     <div className={styles.container}>
       <Head>
