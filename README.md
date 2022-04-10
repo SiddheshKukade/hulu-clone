@@ -8,6 +8,6 @@
 # iPad View : 
 ![image](https://user-images.githubusercontent.com/65951872/162618260-2a12dd6f-cacc-4131-b0a2-832fd7084a14.png)
 
-#Full Scrren : 
+# Full Scrren : 
 ![image](https://user-images.githubusercontent.com/65951872/162618304-61a87753-089d-4ee1-8446-35561e32ee46.png)
 
